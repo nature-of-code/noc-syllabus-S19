@@ -10,59 +10,38 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Mailing List
 * [Nature of Code Google Group](TBD)
 
-# Schedule
+## Schedule
 
-## Week 1 - Introduction, Jan 29
-* [Notes and Examples](week1)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-1)
+### Week 1 - [Introduction](week01-intro), Jan 29
 
-## Week 2 - Build a Physics Engine, Feb 5
-* [Notes and Examples](week2)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-2)
+### Week 2 - [Build a Physics Engine](week02-forces), Feb 5
 
-## Week 3 - Oscillating Motion, Feb  12
-* [Notes and Examples](week3)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-3)
+### Week 3 - [Oscillating Motion](week03-oscillation), Feb  12
 
-## Week 4 - Particle Systems, Feb 19
-* [Notes and Examples](week4)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-4)
+### Week 4 - [Particle Systems](week04-particles), Feb 19
 
-## Week 5 - Autonomous Agents, Feb 26
-* [Notes and Examples](week5)
-* [Simulation Project](https://github.com/shiffman/NOC-S18/wiki/Simulation-Project)
+### Week 5 - [Autonomous Agents](week05-steering), Feb 26
 
-## Week 6 - Physics Libraries, Mar 5
-* [Notes and Examples](week6)
-* [Simulation Project](https://github.com/shiffman/NOC-S18/wiki/Simulation-Project)
+### Week 7 - [Simulation Project Presentations](https://github.com/shiffman/NOC-S19/wiki/Simulation-Project), March 12
 
-## Week 7 - Simulation Project Presentations, March 12
+### No class Tuesday, March 19
 
-## No class Tuesday, March 19
+### Week 8 - [Genetic Algorithms](week08-genetic-algorithm), Mar 26
 
-## Week 8 - Genetic Algorithms, Mar 26
-* [Notes and Examples](week8)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-5)
+### Week 9 - [Neural Networks](week09-neural-network), Apr 2
 
-## Week 9 - Neural Networks, Apr 2
-* [Notes and Examples](week9)
-* [Homework](https://github.com/shiffman/NOC-S18/wiki/Homework-6)
+### Week 10 - [Neuro-evolution](week10-neuroevolution), April 9
 
-## Week 10 - Neuro-evolution, April 9
-* [Notes and Examples](week10)
-* [Final Project Proposals](https://github.com/shiffman/NOC-S18/wiki/Project-Proposals)
+### Week 11 - [Final Project Proposals]https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 16
 
-## Week 11/12 - Final Project Proposals - Apr 16/23
-  * Regular meeting April 17 for [Final Project Proposal presentations](https://github.com/shiffman/NOC-S18/wiki/Project-Proposals)
-  * Individual Final Project Meetings Friday April 20: ***[Sign up here!](https://calendar.google.com/calendar/selfsched?sstoken=UUVJVlVXTmdVWWRYfGRlZmF1bHR8ZDFjMzk2NDBjMjE1YjE4NTBjZTgzMTM0NzYwODcwOWQ)***
+### Week 12 - [Final Project Proposals]https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 23
 
-## Week 13 - User Testing Workshop, April 30
-* [User Testing Info / Schedule](https://github.com/shiffman/NOC-S18/wiki/User-Testing)
+### Week 13 - [User Testing Workshop](https://github.com/shiffman/NOC-S19/wiki/User-Testing), Apr 30
 
-## Week 14 - Final Project Presentations, May 7
-* [Final Project Presentations / Documentation](https://github.com/shiffman/NOC-S18/wiki/Final-Projects)
+### Week 14 - [Final Project Presentations](https://github.com/shiffman/NOC-S19/wiki/Final-Projects), May 7
 
-## Requirements
+## Evalution
+* Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
 * You are required to attend all class meetings and submit all weekly assignments and a final project.
 * Grading (pass/fail) will be based on a combination of factors:
   * Attendance, participation in class discussion, and engagement in other students' projects (25%)
