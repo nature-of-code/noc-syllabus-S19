@@ -1,6 +1,7 @@
-# Week 6 Tutorials and Resources
+# Physics Libraries
 
-## Nature of Code Chapter 5: Physics Libraries
+## Tutorials and Resources
+
 * [Chapter 5 text: Box2D and ToxicLibs with Processing](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * [All videos: Box2D (Processing), toxiclibs (Processing), matter.js (p5)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh)
 

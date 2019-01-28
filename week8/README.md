@@ -1,3 +1,5 @@
+# Genetic Algorithms
+
 ## What is a "Genetic Algorithm"?
 * Traditional GA (Search)
 * Interactive Selection
@@ -35,12 +37,12 @@
 * [Steering Behavior Evolution](https://github.com/shiffman/NOC-S18/tree/master/week8/evolve_steering)
 
 ## Web Editor Examples
-* [9.1: Genetic algorithm: Evolving Shakespeare](http://alpha.editor.p5js.org/natureofcode/sketches/B1GHYpQul)
-* [9.1: Genetic algorithm: Evolving Shakespeare - Simplified](http://alpha.editor.p5js.org/natureofcode/sketches/Bk4wFpXul)
-* [9.2: Simple Smart Rockets](http://alpha.editor.p5js.org/natureofcode/sketches/S1PaKpQOe)
-* [9.3: Smart Rockets](http://alpha.editor.p5js.org/natureofcode/sketches/H1Z_9pX_x)
-* [9.4: Interactive selection](http://alpha.editor.p5js.org/natureofcode/sketches/SyCZs6m_e)
-* [9.5: Evolution ecosystem](http://alpha.editor.p5js.org/natureofcode/sketches/r1b2jaXOx)
+* [9.1: Genetic algorithm: Evolving Shakespeare](http://editor.p5js.org/natureofcode/sketches/B1GHYpQul)
+* [9.1: Genetic algorithm: Evolving Shakespeare - Simplified](http://editor.p5js.org/natureofcode/sketches/Bk4wFpXul)
+* [9.2: Simple Smart Rockets](http://editor.p5js.org/natureofcode/sketches/S1PaKpQOe)
+* [9.3: Smart Rockets](http://editor.p5js.org/natureofcode/sketches/H1Z_9pX_x)
+* [9.4: Interactive selection](http://editor.p5js.org/natureofcode/sketches/SyCZs6m_e)
+* [9.5: Evolution ecosystem](http://editor.p5js.org/natureofcode/sketches/r1b2jaXOx)
 
 ## Project References
 * [Genetic Programming Evolution of Mona Lisa](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/)
@@ -55,4 +57,4 @@
 * [NeuroEvolution Jumping Creatures](https://evobots.azurewebsites.net/)
 
 ## Homework
-* [Assignment 5](https://github.com/shiffman/NOC-S18/wiki/Homework-5)
+* [Assignment 5](https://github.com/shiffman/NOC-S19/wiki/Homework-5)

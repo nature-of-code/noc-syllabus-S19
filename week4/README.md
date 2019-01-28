@@ -1,6 +1,6 @@
-# Week 4 Tutorials and Resources
+# Particle Systems
 
-### Nature of Code Chapter 4: Particle Systems
+## Tutorials and Resources
 * [Particle System tutorial video: p5.js](https://www.youtube.com/watch?v=UcdigVaIYAk), [code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_78_Simple_Particle_System), [demo](http://thecodingtrain.com/CodingChallenges//CC_78_Simple_Particle_System), [3D version in Processing](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_27_FireWorks_3D)
 * [Fireworks tutorial video: p5.js](https://www.youtube.com/watch?v=CKeyIbT3vXI), [code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_27_Fireworks_2D_p5), [demo](http://thecodingtrain.com/CodingChallenges/CC_27_Fireworks_2D_p5/)
 * [Chapter 4 text: Processing](http://natureofcode.com/book/chapter-4-particle-systems/)
@@ -30,7 +30,7 @@
 * [texturing video tutorial](https://www.youtube.com/watch?v=O1mYw-3Wl_Q&list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_&index=4&t=251s)
 * [all webgl videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_)
 
-## Supplemental Reading
+### Supplemental Reading
 * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
 * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
 * [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
@@ -38,18 +38,16 @@
 * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
 ## In-class Code
-* [Array of particles with `filter()` and `for...of` loop](http://alpha.editor.p5js.org/natureofcode/sketches/B1h--jxDG)
-* [Particle System class](http://alpha.editor.p5js.org/natureofcode/sketches/BJxSm2xvf)
-* [Particles with ES6 Inheritance and Polymorphism](https://github.com/shiffman/NOC-S18/tree/master/week4/systems_3)
+* TBD
 
 ## Assignment
-* [Assignment](https://github.com/shiffman/NOC-S18/wiki/Homework-4)
+* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-4)
 
-# Web Editor Example Links
-* [4.1: A single particle](http://alpha.editor.p5js.org/natureofcode/sketches/B1GoIg-ug)
-* [4.2: Array of particles with for...of loop](http://alpha.editor.p5js.org/natureofcode/sketches/B1tgPxW_e)
-* [4.3: Single particle system](http://alpha.editor.p5js.org/natureofcode/sketches/B1YOPxbdl)
-* [4.4: System of systems](http://alpha.editor.p5js.org/natureofcode/sketches/BJYldlbOg)
-* [4.5: Particle system inheritance and polymorphism](http://alpha.editor.p5js.org/natureofcode/sketches/rkJJFxbOe)
-* [4.6: Particle system with forces](http://alpha.editor.p5js.org/natureofcode/sketches/rkrHFebul)
-* [4.7: Particle system with repeller](http://alpha.editor.p5js.org/natureofcode/sketches/rkVTFxZ_e)
+## Web Editor Example Links
+* [4.1: A single particle](http://editor.p5js.org/natureofcode/sketches/B1GoIg-ug)
+* [4.2: Array of particles with for...of loop](http://editor.p5js.org/natureofcode/sketches/B1tgPxW_e)
+* [4.3: Single particle system](http://editor.p5js.org/natureofcode/sketches/B1YOPxbdl)
+* [4.4: System of systems](http://editor.p5js.org/natureofcode/sketches/BJYldlbOg)
+* [4.5: Particle system inheritance and polymorphism](http://editor.p5js.org/natureofcode/sketches/rkJJFxbOe)
+* [4.6: Particle system with forces](http://editor.p5js.org/natureofcode/sketches/rkrHFebul)
+* [4.7: Particle system with repeller](http://editor.p5js.org/natureofcode/sketches/rkVTFxZ_e)

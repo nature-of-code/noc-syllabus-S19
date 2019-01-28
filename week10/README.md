@@ -1,8 +1,8 @@
 # Neuro-Evolution
 
 ## Examples
-* Flappy Bird - [code](https://github.com/shiffman/NOC-S18/tree/master/week10/neuroevolution-flappybird), [demo](http://shiffman.github.io/NOC-S18/week10/neuroevolution-flappybird)
-* Steering for "food" - [code](https://github.com/shiffman/NOC-S18/tree/master/week10/neuroevolution-steering), [demo](http://shiffman.github.io/NOC-S18/week10/neuroevolution-steering)
+* Flappy Bird - [code](https://github.com/shiffman/NOC-S19/tree/master/week10/neuroevolution-flappybird), [demo](http://shiffman.github.io/NOC-S18/week10/neuroevolution-flappybird)
+* Steering for "food" - [code](https://github.com/shiffman/NOC-S19/tree/master/week10/neuroevolution-steering), [demo](http://shiffman.github.io/NOC-S18/week10/neuroevolution-steering)
 
 ## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
@@ -19,32 +19,31 @@ Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 * [NeuroEvolution](https://en.wikipedia.org/wiki/Neuroevolution) on Wikipedia
 * [Neuroevolution of augmenting topologies aka NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) on Wikipedia
 
-# ml5
+## ml5
 
-## Background
+### Background
 * [tensorflow.js](https://js.tensorflow.org/)
 * [keras / layers API](https://keras.io/)
 
-## ml5 library
-* [ml5 website](https://ml5js.github.io/)
+### ml5 library
+* [ml5 website](https://ml5js.org/)
 * [ml5 github](https://github.com/ml5js)
 * [ml5 examples](https://github.com/ml5js/ml5-examples)
 
 ## Homework
-* [Final Project Proposals](https://github.com/shiffman/NOC-S18/wiki/Project-Proposals)
+* [Final Project Proposals](https://github.com/shiffman/NOC-S19/wiki/Project-Proposals)
 
-# Reinforcement Learning
+## Reinforcement Learning
 
-## References
+### References
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (original DeepMind paper, [video](https://www.youtube.com/watch?v=V1eYniJ0Rnk))
 
-## Tools and Frameworks
+### Tools and Frameworks
 * [OpenAI gym](https://gym.openai.com/)
 * [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
-
-## Examples / Tutorials
+### Examples / Tutorials
 * [Reinforcement Q-Learning Tutorial](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
 * Siraj's [How to Beat Pong Using Policy Gradients](https://www.youtube.com/watch?v=PDbXPBwOavc) video. [code](https://github.com/llSourcell/Policy_Gradients_to_beat_Pong) (Using OpenAI Universe)
 * Udacity's [Q Learning example](https://github.com/udacity/deep-learning/blob/master/reinforcement/Q-learning-cart.ipynb) (uses OpenAI gym)
