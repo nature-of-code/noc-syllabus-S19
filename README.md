@@ -32,9 +32,9 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### Week 10 - [Neuro-evolution](week10-neuroevolution), April 9
 
-### Week 11 - [Final Project Proposals]https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 16
+### Week 11 - [Final Project Proposals](https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 16
 
-### Week 12 - [Final Project Proposals]https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 23
+### Week 12 - [Final Project Proposals](https://github.com/shiffman/NOC-S19/wiki/Project-Proposals), Apr 23
 
 ### Week 13 - [User Testing Workshop](https://github.com/shiffman/NOC-S19/wiki/User-Testing), Apr 30
 
