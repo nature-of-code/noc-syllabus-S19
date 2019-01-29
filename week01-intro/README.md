@@ -10,20 +10,20 @@
    * [open processing](https://www.openprocessing.org/)
    * [codepen](https://codepen.io/)
 * [Node + VSCode workflow videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X)
+* [Other Nature of Code Ports](https://github.com/nature-of-code/noc-examples-processing/blob/master/README.md)
 
 ## Week 1 Tutorials and Resources
 
 It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
 
-* [Video Tutorial: Local p5.js development workflow](https://www.youtube.com/watch?v=HZ4D3wDRaec)
-* [Video Tutorial: Publishing p5.js sketch with github pages](https://www.youtube.com/watch?v=8HPYsDTk17A) -- note that `gh-pages` is no longer required, you can host a github repository using the default master branch now.
-* [Video Tutorial: Random Walker p5.js](https://www.youtube.com/watch?v=l__fEY1xanY), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_52_random_walk)
-* [Video Tutorial: Random Walker with Vectors p5.js: Levy Flight](https://www.youtube.com/watch?v=bqF9w9TTfeo), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_53_random_walk_levy)
+* [Video: Publishing p5.js sketch with github pages](https://www.youtube.com/watch?v=8HPYsDTk17A) -- note that `gh-pages` is no longer required, you can host a github repository using the default master branch now.
+* [Video + code: Walker p5.js](https://thecodingtrain.com/CodingChallenges/052-random-walk.html)
+* [Video + code: Random Walker with Vectors p5.js: Levy Flight](https://thecodingtrain.com/CodingChallenges/053-random-walk-levy.html)
 * [Perlin Noise Videos -- mostly p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD)
 * [Nature of Code Introduction text: Processing](http://natureofcode.com/book/introduction/)
 * [Nature of Code Introduction videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
-* [Processing code examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/introduction)
-* [p5.js code examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp00_introduction)
+* [Processing code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples/tree/master/introduction)
+* [p5.js code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples-p5.js/tree/master/chp00_introduction)
 
 ### In-class code
 * TBD
@@ -34,7 +34,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Probability Theory](http://www.probabilitytheory.info/)
 
 ## Assignment
-* [Sign up for class mailing list](TBD)
+* Accept invite to class mailing list (let me know if you prefer a different e-mail address.)
 * [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-1).
 
 ## Web Editor Example Links
