@@ -7,9 +7,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - [All class dates](http://help.itp.nyu.edu/curriculum/registration/spring-2019-reg-info/spring-2019-class-dates-term-deadlines)
 - [Office Hours](https://itp.nyu.edu/inwiki/Signup/Shiffman)
 
-## Mailing List
-* [Nature of Code Google Group](TBD)
-
 ## Schedule
 
 ### Week 1 - [Introduction](week01-intro), Jan 29
