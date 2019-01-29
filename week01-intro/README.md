@@ -9,7 +9,7 @@
    * [web editor](https://editor.p5js.org/)
    * [open processing](https://www.openprocessing.org/)
    * [codepen](https://codepen.io/)
-* Fill in the blank! __________________________
+* [Node + VSCode workflow videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X)
 
 ## Week 1 Tutorials and Resources
 
