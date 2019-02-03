@@ -35,7 +35,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 
 ## Assignment
 * Accept invite to class mailing list (let me know if you prefer a different e-mail address.)
-* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-1).
+* [Assignment](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-1).
 
 ## Web Editor Example Links
 
