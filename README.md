@@ -19,6 +19,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### Week 5 - [Autonomous Agents](week05-steering), Feb 26
 
+### Week 6 - [Physics Libraries](week06-physics-libs), Mar 5
+
 ### Week 7 - [Simulation Project Presentations](https://github.com/shiffman/NOC-S19/wiki/Simulation-Project), March 12
 
 ### No class Tuesday, March 19
@@ -37,7 +39,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### Week 14 - [Final Project Presentations](https://github.com/shiffman/NOC-S19/wiki/Final-Projects), May 7
 
-## Evalution
+## Evaluation
 * Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
 * You are required to attend all class meetings and submit all weekly assignments and a final project.
 * Grading (pass/fail) will be based on a combination of factors:
