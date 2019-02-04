@@ -3,7 +3,7 @@
 ## Class Intro / Overview
 * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 
-## Development Environments?
+## Development Environments
 * [Processing](http://www.processing.org)
 * [p5.js](http://p5js.org)
    * [web editor](https://editor.p5js.org/)
@@ -24,9 +24,6 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Nature of Code Introduction videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
 * [Processing code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples/tree/master/introduction)
 * [p5.js code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples-p5.js/tree/master/chp00_introduction)
-
-### In-class code
-* TBD
 
 ## Supplemental Reading
 * [Mathematics and Physics for Programmers](http://amzn.to/2Fhooq7) Chapter 5
