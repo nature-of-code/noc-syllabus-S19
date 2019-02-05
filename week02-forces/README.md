@@ -6,25 +6,22 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Kadenze videos: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info) -- Session 1
 * [Chapter 1 text: Processing](http://natureofcode.com/book/chapter-1-vectors/)
 * [Chapter 1 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
+* [Processing examples](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp01_vectors)
+* [p5.js examples](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp01_vectors)
 
 ## Nature of Code Chapter 2: Forces
 * [Kadenze videos: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info) -- Session 2
 * [Nature of Code Chapter 2 text: Processing](http://natureofcode.com/book/chapter-2-forces/)
 * [Nature of Code Chapter 2 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZRrqLcQ5BkBKmBLiGD8n4O)
-* [Processing code examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp02_forces)
-* [p5.js code examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* [Attraction and repulsion coding challenge video: p5.js](https://youtu.be/OAcXnzRNiCY?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_56_attraction_repulsion)
+* [Processing examples](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp02_forces)
+* [p5.js examples](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp02_forces)
+* [Attraction and repulsion coding challenge video: p5.js](https://thecodingtrain.com/CodingChallenges/056-attraction-repulsion.html), [code](https://editor.p5js.org/full/6WL2O4vq0)
 
 ## In-class Code
-* [Noise walk trailing behind](http://editor.p5js.org/natureofcode/sketches/S15rrN0rz)
-* [Noise walk speeding up ahead](http://editor.p5js.org/natureofcode/sketches/H1u2vVAHG)
-* [OOP discussion re: Heng's assignment](http://editor.p5js.org/natureofcode/sketches/HJLOXrCSG)
-* [Physics bouncing ball example in class](http://editor.p5js.org/natureofcode/sketches/rkAwvH0rM)
+* TBA
 
 ## Assignment
-* [Assignment](https://github.com/shiffman/NOC-S18/wiki/Homework-2)
+* [Assignment](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-2)
 
 ## Supplemental Reading
 * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
