@@ -18,7 +18,8 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Attraction and repulsion coding challenge video: p5.js](https://thecodingtrain.com/CodingChallenges/056-attraction-repulsion.html), [code](https://editor.p5js.org/full/6WL2O4vq0)
 
 ## In-class Code
-* TBA
+* [Noise Walk](https://editor.p5js.org/natureofcode/sketches/keTdWDTAy)
+* [Gravity + Wind Forces](https://editor.p5js.org/natureofcode/sketches/rkAwvH0rM)
 
 ## Assignment
 * [Assignment](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-2)
