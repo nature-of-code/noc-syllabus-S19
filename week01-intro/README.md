@@ -3,7 +3,11 @@
 ## Class Intro / Overview
 * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 
-## Development Environments
+## Week 1 Tutorials and Resources
+
+It's  not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
+
+### Development Environments
 * [Processing](http://www.processing.org)
 * [p5.js](http://p5js.org)
    * [web editor](https://editor.p5js.org/)
@@ -11,16 +15,19 @@
    * [codepen](https://codepen.io/)
 * [Node + VSCode workflow videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X)
 * [Other Nature of Code Ports](https://github.com/nature-of-code/noc-examples-processing/blob/master/README.md)
-
-## Week 1 Tutorials and Resources
-
-It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
-
 * [Video: Publishing p5.js sketch with github pages](https://www.youtube.com/watch?v=8HPYsDTk17A) -- note that `gh-pages` is no longer required, you can host a github repository using the default master branch now.
+
+### Random Walks
 * [Video + code: Walker p5.js](https://thecodingtrain.com/CodingChallenges/052-random-walk.html)
 * [Video + code: Random Walker with Vectors p5.js: Levy Flight](https://thecodingtrain.com/CodingChallenges/053-random-walk-levy.html)
+* [Video + code: Diffusion Limited Aggregation](https://thecodingtrain.com/CodingChallenges/034-dla) -- note this uses vectors!
+* [Video + code: Brownian Motion Snowflake](https://thecodingtrain.com/CodingChallenges/127-snowflake-brownian.html) -- note this uses vectors!
+
+### Perlin Noise
 * [Perlin Noise Videos -- mostly p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD)
 * [Perlin Noise tutorial in p5.js](http://genekogan.com/code/p5js-perlin-noise/) by Gene Kogan
+
+### Nature of Code Introduction
 * [Nature of Code Introduction text: Processing](http://natureofcode.com/book/introduction/)
 * [Nature of Code Introduction videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
 * [Processing code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples/tree/master/introduction)
