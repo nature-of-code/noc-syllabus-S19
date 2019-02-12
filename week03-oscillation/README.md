@@ -1,18 +1,33 @@
 # Trigonometry and Oscillation
 It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
 
-## Tutorials and Resources
+## Nature of Code Chapter 3
 * [Chapter 3 text: Processing](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Chapter 3 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bR4BcLjHHTopXItSjRA7yG)
-* [p5.js Polar Coordinates video tutorial](https://www.youtube.com/watch?v=N633bLi_YCw)
 * [p5.js chapter 3 example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Processing chapter 3 example code](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp03_oscillation)
+
+## Polar Coordinates
+* [p5.js Polar Coordinates video tutorial](https://www.youtube.com/watch?v=N633bLi_YCw)
+* ["Blobby" coding challenge](https://thecodingtrain.com/CodingChallenges/036-blobby.html)
+* [Mathematical Rose Patterns coding challenge](https://thecodingtrain.com/CodingChallenges/055-roses.html)
+
+## Fourier Transforms
+* [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown
+* [What is a Fourier Series](https://youtu.be/ds0cmAV-Yek) by Smarter Every Day
+* [Fourier Series Coding Challenge](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 1](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html)
+
+## Simple Harmonic Motion and GIF Loops
+* [Golan Levin's Loops lecture](https://github.com/golanlevin/lectures/tree/master/lecture_loops) and [assignment template code](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/#gif)
 * [Cube Wave coding challenge video](https://www.youtube.com/watch?v=H81Tdrmz2LA), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_86_beesandbombs), [Cube Wave demo](http://thecodingtrain.com/CodingChallenges/CC_86_beesandbombs/), [original beesandbombs GIF](https://beesandbombs.tumblr.com/post/149654056864/cube-wave)
 * [GIF Loop Templates by Golan Levin](https://github.com/golanlevin/LoopTemplates)
-* ["Blobby" coding challenge video](https://www.youtube.com/watch?v=rX5p-QRP6R4&index=44&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_36_Blobby), [demo](http://thecodingtrain.com/CodingChallenges/CC_36_Blobby/)
-* [Mathematical Rose Patterns coding challenge video](https://www.youtube.com/watch?v=f5QBExMNB1I), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_55_Roses_p5), [demo](http://thecodingtrain.com/CodingChallenges/CC_55_Roses_p5)
+* [p5.js GIF Library](https://github.com/wenheLI/p5.gif/)
 
-### Related works / videos
+### Inspiration
+* [GIF loop gallery from Golan Levin](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/gif-loop-gallery/)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
 
@@ -24,7 +39,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * TBD
 
 ## Assignment
-* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-3)
+* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Assignment-3)
 
 ## Web Editor Example Links
 
