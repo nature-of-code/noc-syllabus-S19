@@ -26,12 +26,12 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [GIF Loop Templates by Golan Levin](https://github.com/golanlevin/LoopTemplates)
 * [p5.js GIF Library](https://github.com/wenheLI/p5.gif/)
 
-### Inspiration
+## Inspiration
 * [GIF loop gallery from Golan Levin](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/gif-loop-gallery/)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
 
-### Supplemental Reading
+## Supplemental Reading
 * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
 * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
 
