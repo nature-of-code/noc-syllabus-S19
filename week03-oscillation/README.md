@@ -12,6 +12,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Mathematical Rose Patterns coding challenge](https://thecodingtrain.com/CodingChallenges/055-roses.html)
 * [LissaJous Curve Table Coding Challenge](https://thecodingtrain.com/CodingChallenges/116-lissajous.html)
 * ["Blobby" coding challenge](https://thecodingtrain.com/CodingChallenges/036-blobby.html)
+* [Clock Coding Challenge](https://thecodingtrain.com/CodingChallenges/074-clock.html)
 
 ## Fourier Transforms
 * [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown
