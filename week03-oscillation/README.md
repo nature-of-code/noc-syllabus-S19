@@ -21,6 +21,9 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Fourier Transform Drawing with Epicycles Coding Challenge Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html)
 * [Fourier Transform Drawing with Epicycles Coding Challenge Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html)
 
+## Pendulums and Springs
+* [Double Pendulum Coding Challenge](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html)
+
 ## Simple Harmonic Motion and GIF Loops
 * [Golan Levin's Loops lecture](https://github.com/golanlevin/lectures/tree/master/lecture_loops) and [assignment template code](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/#gif)
 * [Cube Wave coding challenge video](https://www.youtube.com/watch?v=H81Tdrmz2LA), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_86_beesandbombs), [Cube Wave demo](http://thecodingtrain.com/CodingChallenges/CC_86_beesandbombs/), [original beesandbombs GIF](https://beesandbombs.tumblr.com/post/149654056864/cube-wave)
