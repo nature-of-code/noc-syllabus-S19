@@ -14,6 +14,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * ["Blobby" coding challenge](https://thecodingtrain.com/CodingChallenges/036-blobby.html)
 * [Clock Coding Challenge](https://thecodingtrain.com/CodingChallenges/074-clock.html)
 * [Butterfly Wings Challenge](https://thecodingtrain.com/CodingChallenges/060-butterfly-wings.html)
+* [Times Tables and the Cardioid](https://thecodingtrain.com/CodingChallenges/133-times-tables-cardioid.html)
 
 ## Fourier Transforms
 * [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown
