@@ -43,6 +43,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 
 ## In-class Code
 * ["Tossing" ball with forces](https://editor.p5js.org/natureofcode/sketches/JSaYI_dax)
+* [Angular Motion with Slider](https://editor.p5js.org/natureofcode/sketches/IDbp0Qscd)
 
 ## Assignment
 * [Assignment](https://github.com/shiffman/NOC-S19/wiki/Assignment-3)
