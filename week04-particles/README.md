@@ -11,17 +11,17 @@
 ### ES6 Classes and inheritance
 * [classes documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [classes and inheritance](https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906) by Maciej Rzepiński
+* [ES6 classes videos from ICM](https://youtu.be/xG2Vbnv0wvg?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-### Higher-Order Functions and Arrays
+### Arrow Functions, Higher-Order Functions
+* [Particle System video with higher order functions](https://youtu.be/m9bRVQ_-DXY?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+* [Coding Train videos](https://youtu.be/m9bRVQ_-DXY?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+* [Higher order function from Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
 * [fill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
 * [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 * [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 * [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 * [and more!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [Higher order function from Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
-
-### ES6 Arrow Function
-* [Arrow functions video tutorial](https://www.youtube.com/watch?v=mrYMzpbFz18)
 * [Arrow functions documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ### p5 WEBGL
