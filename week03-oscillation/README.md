@@ -48,7 +48,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Spiral - Polar Coordinates](https://editor.p5js.org/natureofcode/sketches/Z4yCwwJ_Z)
 
 ## Assignment
-* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Assignment-3)
+* [Assignment](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-3)
 
 ## Web Editor Example Links
 
