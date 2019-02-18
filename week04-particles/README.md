@@ -41,7 +41,7 @@
 * TBD
 
 ## Assignment
-* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-4)
+* [Assignment 4](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-4)
 
 ## Web Editor Example Links
 * [4.1: A single particle](http://editor.p5js.org/natureofcode/sketches/B1GoIg-ug)
