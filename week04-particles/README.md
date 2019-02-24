@@ -38,7 +38,9 @@
 * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
 ## In-class Code
-* TBD
+* [Particles without inheritance](https://editor.p5js.org/natureofcode/sketches/Oj-knf4bl)
+* [Particles with inheritance!](https://editor.p5js.org/natureofcode/sketches/uMPt8UPzA)
+* [Polar Perlin Noise Loop](https://editor.p5js.org/natureofcode/sketches/8I_oLZqDt)
 
 ## Assignment
 * [Assignment 4](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-4)
