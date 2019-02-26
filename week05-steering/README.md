@@ -9,14 +9,23 @@
 * [Processing chapter 6 example code](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents)
 * [p5.js chapter 6 example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
 
-### Supplemental Reading / Viewing
+## Supplemental Reading / Viewing
 * [Reas Process Compendium](https://vimeo.com/22955812)
 * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
 * [Braitenberg Vehicles](http://amzn.to/2EM5JGS)
 
-### Finding closest point on line and dot product
+## Finding closest point on line and dot product
 * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+
+## QuadTree Optimization
+* [QuadTree Data Structure (Wikipedia)](https://en.wikipedia.org/wiki/Quadtree)
+* [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
+* [p5 web editor example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
+* [QuadTree Coding Challenge 1](https://thecodingtrain.com/CodingChallenges/098.1-quadtree.html)
+* [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
+* [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
+
 
 ## Code from in class
 * TBD
