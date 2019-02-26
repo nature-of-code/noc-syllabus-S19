@@ -22,7 +22,7 @@
 * TBD
 
 ## Assignment
-* [Simulation Project](https://github.com/shiffman/NOC-S18/wiki/Simulation-Project)
+* [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Simulation-Project)
 
 ## Web Editor Example Links
 * [6.1: Seeking a target](http://editor.p5js.org/natureofcode/sketches/r1imr2mdx)
@@ -34,3 +34,5 @@
 * [6.7: Group behavior: Separation](http://editor.p5js.org/natureofcode/sketches/Hk67wnQOg)
 * [6.8: Combining steering behaviors: Seek and separate](http://editor.p5js.org/natureofcode/sketches/Byr_DhXul)
 * [6.9: Flocking](http://editor.p5js.org/natureofcode/sketches/BJ12w2mOx)
+* [Exercise 6.13: Crowd Path Following](https://editor.p5js.org/natureofcode/sketches/2LcY8Hs-n)
+
