@@ -2,8 +2,8 @@
 
 ## Tutorials and Resources
 * [Kadenze Session 3: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info)
-* Steering Behaviors Coding Challenge: p5.js: [video](https://www.youtube.com/watch?v=4hA7G3gup-4), [code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_59_Steering_Text_Paths), [demo](http://thecodingtrain.com/CodingChallenges/CC_59_Steering_Text_Paths/)
-* Perlin Noise Flow Field Coding Challenge: p5.js: [video](https://www.youtube.com/watch?v=BjoM9oKOAKY), [code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_24_PerlinNoiseFlowField), [demo](http://thecodingtrain.com/CodingChallenges/CC_24_PerlinNoiseFlowField)
+* [Steering Behaviors Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/059-steering-text-paths.html)
+* [Perlin Noise Flow Field Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/024-perlinnoiseflowfield.html)
 * [Chapter 6 text: Processing](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * [Chapter 6 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YHt0dtyf4uiw8tKOxQLvlW)
 * [Processing chapter 6 example code](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents)
