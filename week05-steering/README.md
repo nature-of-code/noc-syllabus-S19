@@ -15,6 +15,7 @@
 * [Braitenberg Vehicles](http://amzn.to/2EM5JGS)
 
 ## Finding closest point on line and dot product
+* [Dot Product and Scalar Projection video](https://youtu.be/_ENEsV_kNx8) -- uses Processing
 * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
 
@@ -26,9 +27,8 @@
 * [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
 * [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
 
-
 ## Code from in class
-* TBD
+* [Particle Burst](https://editor.p5js.org/natureofcode/sketches/To9VJR2gv)
 
 ## Assignment
 * [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Simulation-Project)
@@ -44,4 +44,3 @@
 * [6.8: Combining steering behaviors: Seek and separate](http://editor.p5js.org/natureofcode/sketches/Byr_DhXul)
 * [6.9: Flocking](http://editor.p5js.org/natureofcode/sketches/BJ12w2mOx)
 * [Exercise 6.13: Crowd Path Following](https://editor.p5js.org/natureofcode/sketches/2LcY8Hs-n)
-
