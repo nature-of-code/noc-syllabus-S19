@@ -15,16 +15,19 @@
 * [Toxiclibs video tutorials (Processing)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aiaU4s30tXvUmwGMlb9UUS)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/toxiclibs)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
-* [Toxiclibs cloth simulation video tutorial](https://www.youtube.com/watch?v=jrk_lOg_pVA)
-   * [2D Cloth example code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_20_Cloth2D)
-   * [3D Cloth example code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_20_Cloth3D)
-* [Toxiclibs Textured Cloth video tutorial](https://www.youtube.com/watch?v=JunJzIe0hEo), [example code](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_63_unikitty_flag)
+* [Toxiclibs cloth simulation video tutorial](https://thecodingtrain.com/CodingChallenges/020-cloth3d.html)
+* [Toxiclibs Textured Cloth video tutorial part 1](https://thecodingtrain.com/CodingChallenges/063.1-unikitty-flag.html), [Toxiclibs Textured Cloth video tutorial part 2](https://thecodingtrain.com/CodingChallenges/063.2-unikitty-flag.html), 
 * [ToxicLibs](http://toxiclibs.org/)
 * [ToxicLibs.js](http://haptic-data.com/toxiclibsjs/)
 
 ### Matter.js
 * [Matter.js video tutorials (JavaScript)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bLh3T_4wtrmVHOrOEM1ig_)
-    
+* [Plinko Matter.js](https://thecodingtrain.com/CodingChallenges/CC_062_plinko/P5/)
+  * [Plinko Video 1](https://thecodingtrain.com/CodingChallenges/062.1-plinko.html)
+  * [Plinko Video 2](https://thecodingtrain.com/CodingChallenges/062.2-plinko.html)
+  * [Plinko Video 3](https://thecodingtrain.com/CodingChallenges/062.3-plinko.html)
+  * [Plinko Video 4](https://thecodingtrain.com/CodingChallenges/062.4-plinko.html)
+
 ### 3D Physics?
 * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
 * [ammo.js Javascript port](https://github.com/kripken/ammo.js/)
