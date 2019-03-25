@@ -57,4 +57,4 @@
 * [NeuroEvolution Jumping Creatures](https://evobots.azurewebsites.net/)
 
 ## Homework
-* [Assignment 5](https://github.com/shiffman/NOC-S19/wiki/Homework-5)
+* [Assignment 5](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-5)
