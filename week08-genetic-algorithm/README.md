@@ -28,6 +28,7 @@
 * [The Sports Gene](http://www.nytimes.com/2013/08/13/science/the-sports-gene-considers-the-root-of-athletic-success.html)
 
 ## Related videos
+* [Simulating Natural Selection](https://youtu.be/0ZGbIKd0XrM)
 * [Shiffman GA YouTube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV)
 * [Shiffman GA Presentation @ Kickstarter](https://vimeo.com/63755542)
 
