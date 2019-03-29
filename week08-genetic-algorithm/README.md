@@ -35,7 +35,7 @@
 ## Code examples
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp09_ga)
-* [Steering Behavior Evolution](https://github.com/shiffman/NOC-S18/tree/master/week8/evolve_steering)
+* Traveling Salesperson GA: [TSP Part 1](https://thecodingtrain.com/CodingChallenges/035.1-tsp.html), [TSP Part 2](https://thecodingtrain.com/CodingChallenges/035.2-tsp.html), [TSP Part 3](https://thecodingtrain.com/CodingChallenges/035.3-tsp.html), [TSP Part 4](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html)
 
 ## Web Editor Examples
 * [9.1: Genetic algorithm: Evolving Shakespeare](http://editor.p5js.org/natureofcode/sketches/B1GHYpQul)
