@@ -64,7 +64,7 @@
 * [BoxCar2D](http://boxcar2d.com/)
 * [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://vimeo.com/79098420)
 * [Ann Chen & Danne Woo - Galapagos Evolutionary Type Design NOC 2012](http://dannewoo.com/projects/typegalapagos.html)
-* [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
+* [Digital Babylon NOC 2005](http://en.joan.cat/dbn/)
 * [GA plays Flappy Bird](https://www.youtube.com/watch?v=L6bbFgjkqK0)
 * [NeuroEvolution on Autonomous Car Pathing](http://mitchvollebregt.com/neuroevolution-on-autonomous-car-pathing/)
 * [NeuroEvolution Snake Game](https://www.youtube.com/watch?v=BBLJFYr7zB8)
