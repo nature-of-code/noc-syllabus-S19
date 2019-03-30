@@ -32,12 +32,6 @@
 * [Shiffman GA YouTube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV)
 * [Shiffman GA Presentation @ Kickstarter](https://vimeo.com/63755542)
 
-## Code examples
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp09_ga)
-* Traveling Salesperson GA: [TSP Part 1](https://thecodingtrain.com/CodingChallenges/035.1-tsp.html), [TSP Part 2](https://thecodingtrain.com/CodingChallenges/035.2-tsp.html), [TSP Part 3](https://thecodingtrain.com/CodingChallenges/035.3-tsp.html), [TSP Part 4](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html), [TSP Part 5](https://thecodingtrain.com/CodingChallenges/035.5-tsp.html)
-* [Evolutionary Steering Behavior 1](https://thecodingtrain.com/CodingChallenges/069.1-steering-evolution.html), [Evolutionary Steering Behavior 2](https://thecodingtrain.com/CodingChallenges/069.2-steering-evolution.html), [Evolutionary Steering Behavior 3](https://thecodingtrain.com/CodingChallenges/069.3-steering-evolution.html), [Evolutionary Steering Behavior 4](https://thecodingtrain.com/CodingChallenges/069.4-steering-evolution.html), [Evolutionary Steering Behavior 5](https://thecodingtrain.com/CodingChallenges/069.5-steering-evolution.html)
-
 ## Web Editor Examples
 * [9.1: Genetic algorithm: Evolving Shakespeare](http://editor.p5js.org/natureofcode/sketches/B1GHYpQul)
 * [9.1: Genetic algorithm: Evolving Shakespeare - Simplified](http://editor.p5js.org/natureofcode/sketches/Bk4wFpXul)
@@ -45,6 +39,24 @@
 * [9.3: Smart Rockets](http://editor.p5js.org/natureofcode/sketches/H1Z_9pX_x)
 * [9.4: Interactive selection](http://editor.p5js.org/natureofcode/sketches/SyCZs6m_e)
 * [9.5: Evolution ecosystem](http://editor.p5js.org/natureofcode/sketches/r1b2jaXOx)
+
+## Other code examples
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp09_ga)
+* Traveling Salesperson GA:
+    * [TSP Code in Web Editor](https://editor.p5js.org/codingtrain/sketches/EGjTrkkf9)
+    * [TSP Challenge 1](https://thecodingtrain.com/CodingChallenges/035.1-tsp.html)
+    * [TSP Challenge 2](https://thecodingtrain.com/CodingChallenges/035.2-tsp.html)
+    * [TSP Challenge 3](https://thecodingtrain.com/CodingChallenges/035.3-tsp.html)
+    * [TSP Challenge 4](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html)
+    * [TSP Challenge 5](https://thecodingtrain.com/CodingChallenges/035.5-tsp.html)
+* Evolving Steering Behaviors
+    * [Evolutionary Steering Code in Web Editor](https://editor.p5js.org/codingtrain/sketches/xgQNXkxx1)
+    * [Evolutionary Steering Challenge 1](https://thecodingtrain.com/CodingChallenges/069.1-steering-evolution.html)
+    * [Evolutionary Steering Challenge 2](https://thecodingtrain.com/CodingChallenges/069.2-steering-evolution.html)
+    * [Evolutionary Steering Challenge 3](https://thecodingtrain.com/CodingChallenges/069.3-steering-evolution.html)
+    * [Evolutionary Steering Challenge 4](https://thecodingtrain.com/CodingChallenges/069.4-steering-evolution.html)
+    * [Evolutionary Steering Challenge 5](https://thecodingtrain.com/CodingChallenges/069.5-steering-evolution.html)
 
 ## Project References
 * [Genetic Programming Evolution of Mona Lisa](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/)
