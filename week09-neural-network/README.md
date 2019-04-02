@@ -3,7 +3,10 @@
 ## ml5.js
 * [ml5 Coding Train video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 * [ml5 website](https://ml5js.org/), [ml5 github](https://github.com/ml5js)
-* ***[WEB EDITOR EXAMPLES]***
+* [Image Classification Transfer Learning example](https://editor.p5js.org/ml5/sketches/BkEeFyBhm)
+* [Image "Regression" Transfer Learning example](https://editor.p5js.org/ml5/sketches/B1Gntkrhm)
+
+
 
 ## TensorFlow.js
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
