@@ -17,7 +17,7 @@
 
 ## Building a Neural Network from Scratch
 * [Neural Networks (Nature of Code Chapter 10)](http://natureofcode.com/book/chapter-10-neural-networks/)
-* [Perceptron Video[(https://youtu.be/ntKn5TPHHAk), [Perceptron p5.js code](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
+* [Perceptron Video](https://youtu.be/ntKn5TPHHAk), [Perceptron p5.js code](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
 * [3Blue1Brown Neural Network series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [Toy Neural Network JavaScript library](https://github.com/CodingTrain/Toy-Neural-Network-JS)
 * [Coding Train Neural Network Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
