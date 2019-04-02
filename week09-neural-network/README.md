@@ -3,17 +3,17 @@
 ## ml5.js
 * [ml5 Coding Train video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 * [ml5 website](https://ml5js.org/), [ml5 github](https://github.com/ml5js)
-* [Image Classification Transfer Learning example](https://editor.p5js.org/ml5/sketches/BkEeFyBhm)
-* [Image "Regression" Transfer Learning example](https://editor.p5js.org/ml5/sketches/B1Gntkrhm)
-
-
+* [Image Classification Transfer Learning example code](https://editor.p5js.org/ml5/sketches/BkEeFyBhm)
+* [Image "Regression" Transfer Learning example code](https://editor.p5js.org/ml5/sketches/B1Gntkrhm)
 
 ## TensorFlow.js
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
 * [Building a "Color Classifier" with TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
 * [Yining Shi](https://github.com/yining1023/)'s [TensorFlow.js Doodle Classifier](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
 * [TensorFlow.js website](https://www.tensorflow.org/js/)
-* ***[WEB EDITOR EXAMPLES]***
+* [Coding Challenge: Solving XOR with tf.js](https://thecodingtrain.com/CodingChallenges/106-xor-tfjs.html)
+* [Coding Challenge: Linear Regression with tf.js](https://thecodingtrain.com/CodingChallenges/104-linear-regression-tfjs.html)
+* [Coding Challenge: Polynomial Regression with tf.js](https://thecodingtrain.com/CodingChallenges/105-polynomial-regression-tfjs.html)
 
 ## Building a Neural Network from Scratch
 * [Neural Networks (Nature of Code Chapter 10)](http://natureofcode.com/book/chapter-10-neural-networks/)
