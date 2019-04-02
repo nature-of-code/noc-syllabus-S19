@@ -1,20 +1,18 @@
 # Machine Learning and Neural Networks
 
-## Neural Networks in JavaScript
-
-### ml5.js
+## ml5.js
 * [ml5 Coding Train video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 * [ml5 website](https://ml5js.org/), [ml5 github](https://github.com/ml5js)
 * ***[WEB EDITOR EXAMPLES]***
 
-### TensorFlow.js
+## TensorFlow.js
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
 * [Building a "Color Classifier" with TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
 * [Yining Shi](https://github.com/yining1023/)'s [TensorFlow.js Doodle Classifier](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
 * [TensorFlow.js website](https://www.tensorflow.org/js/)
 * ***[WEB EDITOR EXAMPLES]***
 
-### Building a Neural Network from Scratch
+## Building a Neural Network from Scratch
 * [Neural Networks (Nature of Code Chapter 10)](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [3Blue1Brown Neural Network series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [Coding Train Neural Network Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
