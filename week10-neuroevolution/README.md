@@ -37,12 +37,18 @@ Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) by Arthur Juliani
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (original DeepMind paper, [video](https://www.youtube.com/watch?v=V1eYniJ0Rnk))
+* [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) Andrej Karpathy on reinforcement learning in general
 
 ## Tools and Frameworks
 * [Unity ml-agents](https://github.com/Unity-Technologies/ml-agents)
 * [OpenAI gym](https://gym.openai.com/)
 * [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
+* [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
+* [SynapticJS](http://caza.la/synaptic/#/)
 
 ## Examples / Tutorials
 * [Reinforcement Q-Learning Tutorial](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
 * Udacity's [Q Learning example](https://github.com/udacity/deep-learning/blob/master/reinforcement/Q-learning-cart.ipynb) (uses OpenAI gym)
+* [Javascript Q Table Learning](https://github.com/AidanNelson/reinforcement-learning-experiments/tree/master/simple-rl-tutorials/part-1) by @aidannelson
+* [Self-Driving Cars in the browser](https://janhuenermann.com/blog/learning-to-drive)
+* [Q Learning Connect 4](https://blog.sicara.com/deep-q-learning-javascript-synaptic-convnet-connect-4-4dbdcd563d55) (uses SynapticJS)
