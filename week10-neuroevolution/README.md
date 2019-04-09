@@ -13,7 +13,7 @@
     * [NeuroEvolution Video Part 5](https://thecodingtrain.com/CodingChallenges/100.5-neuroevolution-flappy-bird.html)
     * [NeuroEvolution Training Demo](https://thecodingtrain.com/CodingChallenges/CC_100.1_NeuroEvolution_FlappyBird/P5/)
     * [NeuroEvolution Loading Trained Model Demo](https://thecodingtrain.com/CodingChallenges/CC_100.5_NeuroEvolution_FlappyBird/P5/)
-* Steering for "food" - [code](https://github.com/nature-of-code/noc-syllabus-S19/tree/master/week10/neuroevolution-steering), [demo](http://nature-of-code.github.io/noc-syllabus-S19/week10/neuroevolution-steering)
+* Steering for "food" - [code](https://github.com/nature-of-code/noc-syllabus-S19/tree/master/week10/neuroevolution-steering), [demo](http://nature-of-code.github.io/noc-syllabus-S19/week10-neuroevolution/neuroevolution-steering)
 
 ## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
