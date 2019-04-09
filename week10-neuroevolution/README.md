@@ -1,10 +1,10 @@
-## Neuro-Evolution
+# Neuro-Evolution
 
-### TensorFlow.js
+## TensorFlow.js
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ): 6.5 and 6.6 are the most relevant in terms of the Layers API as applied below.
 * Flappy Bird with TensorFlow.js - [code](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution), [demo](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution/)
 
-### Toy-Neural-Network
+## Toy-Neural-Network
 * Neuro-Evolution Flappy Bird Coding Challenge
     * [NeuroEvolution Video Part 1](https://thecodingtrain.com/CodingChallenges/100.1-neuroevolution-flappy-bird.html)
     * [NeuroEvolution Video Part 2](https://thecodingtrain.com/CodingChallenges/100.2-neuroevolution-flappy-bird.html)
@@ -15,14 +15,14 @@
     * [NeuroEvolution Loading Trained Model Demo](https://thecodingtrain.com/CodingChallenges/CC_100.5_NeuroEvolution_FlappyBird/P5/)
 * Steering for "food" - [code](https://github.com/shiffman/NOC-S18/tree/master/week10/neuroevolution-steering), [demo](http://shiffman.github.io/NOC-S18/week10/neuroevolution-steering)
 
-### Other NeuroEvolution examples
+## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
 * [Asteroids Learning](https://github.com/xviniette/AsteroidsLearning) by @xviniette
 * [steering agent with p5.js](https://github.com/lazoviccorp/aijs2/tree/gh-pages) by @lazoviccorp
 * [Snake NeuroEvolution](https://github.com/emgoz/Neural-network-snake) by @emgoz, [video demo](https://www.youtube.com/watch?v=BBLJFYr7zB8&t=0s)
 * [NeuroEvolution playing Super Mario](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
-### References
+## References
 * [Evolving Neural Networks through
 Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 * [Evolving Novel Behaviors via Natural Selection](http://www.channon.net/alastair/geb/alife6/channon_ad_alife6.pdf)
@@ -31,17 +31,18 @@ Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 * [Neuroevolution of augmenting topologies aka NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) on Wikipedia
 
 
-## Reinforcement Learning / Q-Learning
+# Reinforcement Learning / Q-Learning
 
-### References
+## References
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) by Arthur Juliani
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (original DeepMind paper, [video](https://www.youtube.com/watch?v=V1eYniJ0Rnk))
 
-### Tools and Frameworks
+## Tools and Frameworks
+* [Unity ml-agents](https://github.com/Unity-Technologies/ml-agents)
 * [OpenAI gym](https://gym.openai.com/)
 * [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
-### Examples / Tutorials
+## Examples / Tutorials
 * [Reinforcement Q-Learning Tutorial](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
 * Udacity's [Q Learning example](https://github.com/udacity/deep-learning/blob/master/reinforcement/Q-learning-cart.ipynb) (uses OpenAI gym)
