@@ -4,7 +4,7 @@
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ): 6.5 and 6.6 are the most relevant in terms of the Layers API as applied below.
 * [Demo: Flappy Bird Learning](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution_flappy/), [Code: Flappy Bird Learning](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution_flappy)
 * [Demo: Loading Saved Model](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_load_flappy/), [Code: Loading Saved Model](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_load_flappy)
-* [Demo: Steering Evolution](ttps://shiffman.github.io/Tensorflow-JS-Examples/05_neuro_evolution_steering/), [Code: Steering Evolution](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/05_neuro_evolution_steering) 
+* [Demo: Steering Evolution](https://shiffman.github.io/Tensorflow-JS-Examples/05_neuro_evolution_steering/), [Code: Steering Evolution](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/05_neuro_evolution_steering) 
 
 ## Toy-Neural-Network
 * Neuro-Evolution Flappy Bird Coding Challenge
