@@ -2,7 +2,9 @@
 
 ## TensorFlow.js
 * [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ): 6.5 and 6.6 are the most relevant in terms of the Layers API as applied below.
-* Flappy Bird with TensorFlow.js - [code](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution), [demo](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution/)
+* [Flappy Bird Demo: Learning](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution_flappy/), [Flappy Bird Code: Learning](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution_flappy)
+* [Flappy Bird Demo: Loading Saved Model](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_load_flappy/), [FlappyBird Code: Loading Saved Model](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_load_flappy)
+* [Steering Evolution Demo](ttps://shiffman.github.io/Tensorflow-JS-Examples/05_neuro_evolution_steering/), [Steering Evolution Demo](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/05_neuro_evolution_steering) 
 
 ## Toy-Neural-Network
 * Neuro-Evolution Flappy Bird Coding Challenge
@@ -13,7 +15,6 @@
     * [NeuroEvolution Video Part 5](https://thecodingtrain.com/CodingChallenges/100.5-neuroevolution-flappy-bird.html)
     * [NeuroEvolution Training Demo](https://thecodingtrain.com/CodingChallenges/CC_100.1_NeuroEvolution_FlappyBird/P5/)
     * [NeuroEvolution Loading Trained Model Demo](https://thecodingtrain.com/CodingChallenges/CC_100.5_NeuroEvolution_FlappyBird/P5/)
-* Steering for "food" - [code](https://github.com/nature-of-code/noc-syllabus-S19/tree/master/week10/neuroevolution-steering), [demo](http://nature-of-code.github.io/noc-syllabus-S19/week10-neuroevolution/neuroevolution-steering)
 
 ## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
